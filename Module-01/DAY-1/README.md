@@ -26,12 +26,21 @@ RegisterNumber: 212222230066
 ```
 
 ## Sourcecode.java:
-```
+```java
 class Student
 {
     String name;
     String address;
 }
+public class Main {
+    public static void main(String[] args) {
+        Student obj= new Student();
+        obj.dept="AIML";
+        obj.name="John";
+        obj.rollno=15;   
+        System.out.println(obj.dept+" "+obj.name+" "+obj.rollno);
+    }   
+} 
 ```
 ## OUTPUT:
 
