@@ -27,7 +27,7 @@ RegisterNumber: 212222230066
 ```
 
 ## Sourcecode.java:
-```
+```java
 import java.util.*;
 public class GFG {
 	public static void main(String[] args)
